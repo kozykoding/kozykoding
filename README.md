@@ -10,7 +10,10 @@
 ### 🔭 Currently Working On
 - ⚡ Finishing the **Boot.dev** Backend Development curriculum.
 - 🛠 **[GoKozyy](https://github.com/kozykoding/gokozyy)** — CLI for modern Go projects.
-  `Go` `Vite` `React` `Docker` `Postgres` `Tailwind` 
+  `Go` `Vite` `React` `Docker` `Postgres` `Tailwind`
+  
+  <img width="682" height="446" alt="image" src="https://github.com/user-attachments/assets/63a2b3b3-95b1-4cdb-a527-eafb5da6c2a4" />
+
 - 📖 Learning more about Backend Deverlopment, DevOps Engineering, and Database Optimization.
 
 ### 🏆 Boot.dev Progress
